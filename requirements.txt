@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pyngrok
+nest-asyncio
+langchain
+langchain-community
+langchain-text-splitters
+transformers
+torch
+sentence-transformers
+faiss-cpu
+chromadb
+weaviate-client
+FlagEmbedding>=1.1.1
+cohere>=4.0.0
+requests
+tqdm

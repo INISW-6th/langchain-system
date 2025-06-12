@@ -1,0 +1,8 @@
+{
+  "qa": "문서: {context}\n질문: {question}\n답변:",
+  "summarize": "아래 내용을 요약하세요:\n{context}",
+  "paraphrase": "다음을 더 쉽게 바꿔 써 주세요:\n{context}",
+  "translate": "다음을 영어로 번역하세요:\n{context}",
+  "extractive": "아래 문서에서 질문에 답하는 부분만 정확히 발췌하세요.\n문서: {context}\n질문: {question}",
+  "contrastive": "문맥: {context}\n질문: {question}\n찬성 논거와 반대 논거를 모두 제시하세요."
+}
